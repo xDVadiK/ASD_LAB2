@@ -1,0 +1,3 @@
+﻿  UnitTest_for_LAB2.cpp
+C:\Users\xdvad\source\repos\ASD_LAB2\ASD_LAB2\Algorithms_for_LAB2.h(155,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  UnitTest_for_LAB2.vcxproj -> C:\Users\xdvad\source\repos\ASD_LAB2\Debug\UnitTest_for_LAB2.dll
